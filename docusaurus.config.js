@@ -53,7 +53,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/Kukuza',
             label: 'GitHub',
@@ -93,10 +93,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             title: 'More',
             items: [
-              {
+              /* {
                 label: 'Blog',
                 to: '/blog',
-              },
+              }, */
               {
                 label: 'GitHub',
                 href: 'https://github.com/Kukuza',
